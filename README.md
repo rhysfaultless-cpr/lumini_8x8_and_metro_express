@@ -20,8 +20,6 @@
 <br/>
 <p align="center"><img src="/readme_assets/readme_overall.png" width="800"/></p>
 <br/>
-<p align="center"><img src="/readme_assets/readme_lumini.jpg" width="400"/></p>
-<br/>
 
 ## Setup
 
