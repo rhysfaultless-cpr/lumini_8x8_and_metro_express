@@ -7,11 +7,12 @@
 
 ## Pinout
 
-|| Adafruit Metro M0 Express        || SparkFun LuMini || Wire Colour In Picture |
-|  5V                               |  5V              |  Red                    |
-|  GND                              |  GND             |  Black                  |
-|  Digital 6 / SPI0 SCK             |  CI              |  Grey                   |
-|  Digital 7 / SPI0 SDO / SPI0 MOSI |  DI              |  Blue                   |
+| Adafruit Metro M0 Express        | SparkFun LuMini | Wire Colour In Picture |
+| :------------------------------- | :-------------- | :--------------------- |
+| 5V                               | 5V              | Red                    |
+| GND                              | GND             | Black                  |
+| Digital 6 / SPI0 SCK             | CI              | Grey                   |
+| Digital 7 / SPI0 SDO / SPI0 MOSI | DI              | Blue                   |
 
 <p align="center"><img src="/readme_assets/readme_overall.png" width="500"/></p>
 <br/>
