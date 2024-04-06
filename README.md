@@ -1,9 +1,10 @@
 # lumini_8x8_and_metro_express
 
-## Tools
+## Hardware
 
-* [Adafruit Metro M0 Express](https://learn.adafruit.com/adafruit-metro-rp2040/pinouts)
-* [SparkFun LuMini LED Matrix - 8x8](https://learn.sparkfun.com/tutorials/lumini-8x8-matrix-hookup-guide?_ga=2.269100921.9462074.1712349924-870672267.1710346008)
+1.  [Adafruit Metro M0 Express](https://learn.adafruit.com/adafruit-metro-rp2040/pinouts)
+2.  [SparkFun LuMini LED Matrix - 8x8](https://learn.sparkfun.com/tutorials/lumini-8x8-matrix-hookup-guide?_ga=2.269100921.9462074.1712349924-870672267.1710346008)
+3.  [Potentiometer, CUI Devices PTN15-C10NB10](https://www.cuidevices.com/product/motion-and-control/potentiometers/trimmer-potentiometers/ptn15-c10nb10)
 
 ## Pinout
 
