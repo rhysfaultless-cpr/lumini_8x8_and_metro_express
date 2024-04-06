@@ -22,3 +22,20 @@
 <br/>
 <p align="center"><img src="/readme_assets/readme_lumini.jpg" width="400"/></p>
 <br/>
+
+## Setup
+
+1.  Wire the hardware as described in the Pinout section.
+2.  Confirm that the Adafruit Metro's _DC Jack_ switch is in the _OFF_ position.
+3.  Connect the Adafruit Metro to your development computer with a micro-USB cable.
+4.  Start the Arduino IDE on your development computer.
+5.  Install the [FastLED library](https://github.com/FastLED/FastLED/).
+    At the time of writing, you do this by:
+    - [Download the library](https://github.com/FastLED/FastLED/archive/master.zip) as a _.zip_
+    - In the Arduino IDE, select _Sketch ⟶ Include Library ⟶ Add .ZIP Library..._
+    - Select the library and then _Open_
+6.  Open the Arduino Sketch from this repository, [lumini_metro_example](./lumini_metro_example.ino).
+7.  Updload the Sketch to the Adafruit Metro by:
+    - Select the Board
+    - Select the Port
+    - Select the _Upload_ button
