@@ -37,3 +37,25 @@
     - Select the Board
     - Select the Port
     - Select the _Upload_ button
+
+## Use
+
+1.  After completing the setup section, the board should continously run whenever it is powered through a USB cable.
+2.  The LED brightness is adjusted by turning the potentiometer.
+3.  The colour is changed by connecting the Adafruit Metro Pins _A3_, _A4_, and _A5_ to Ground.
+    The wiring diagram shows these as:
+    - A3 = Red
+    - A4 = Blue
+    - A5 = Yellow
+    <br/>
+    These colours were chossen to make the LED colour selection intuitive, by combining these primary colours.
+    <br/>
+    The supported colours are:
+    - Red
+    - Orange
+    - Yellow
+    - Green
+    - Blue
+    - Purple
+    - White
+    - Black / Off
