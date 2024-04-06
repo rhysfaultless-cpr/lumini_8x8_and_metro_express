@@ -33,7 +33,7 @@
     - In the Arduino IDE, select _Sketch ⟶ Include Library ⟶ Add .ZIP Library..._
     - Select the library and then _Open_
 6.  Open the Arduino Sketch from this repository, [lumini_metro_example](./lumini_metro_example.ino).
-7.  Updload the Sketch to the Adafruit Metro by:
+7.  Upload the Sketch to the Adafruit Metro by:
     - Select the Board
     - Select the Port
     - Select the _Upload_ button
