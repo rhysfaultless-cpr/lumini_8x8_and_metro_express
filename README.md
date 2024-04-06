@@ -16,6 +16,6 @@
 <p align="center"><img src="/readme_assets/readme_overall.png" width="600"/></p>
 <br/>
 <p align="center">
-  <img src="/readme_assets/readme_metro.png" width="300"/>
-  <img src="/readme_assets/readme_lumini.png" width="300"/>
+  <img src="/readme_assets/readme_metro.jpg" width="300"/>
+  <img src="/readme_assets/readme_lumini.jpg" width="300"/>
 </p>
