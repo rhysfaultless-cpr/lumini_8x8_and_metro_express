@@ -20,12 +20,14 @@
 CRGB matrix[NUM_LEDS];
 int delayTimeLength = 10;
 
+
 void setup() {
   Serial.begin(115200);
   Serial.println("resetting");
   LEDS.addLeds<APA102, DATA_PIN, CLOCK_PIN, BGR>(matrix, NUM_LEDS);
   LEDS.setBrightness(0);
 }
+
 
 void setAllColour(int changeRed=0, int changeGreen=0, int changeBlue=0) {
   for (int i = 0; i < NUM_LEDS; i++) {
