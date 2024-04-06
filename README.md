@@ -15,8 +15,10 @@
 | Digital 6 / SPI0 SCK             | CI              | Grey                   |
 | Digital 7 / SPI0 SDO / SPI0 MOSI | DI              | Blue                   |
 
-<p align="center"><img src="/readme_assets/readme_overall.png" width="500"/></p>
+
+<p align="center"><img src="/readme_assets/sparkfun_lumini_and_adafruit_metro.png" width="800"/></p>
 <br/>
-<p align="center"><img src="/readme_assets/readme_metro.jpg" width="500"/></p>
+<p align="center"><img src="/readme_assets/readme_overall.png" width="800"/></p>
 <br/>
-<p align="center"><img src="/readme_assets/readme_lumini.jpg" width="500"/></p>
+<p align="center"><img src="/readme_assets/readme_lumini.jpg" width="400"/></p>
+<br/>
