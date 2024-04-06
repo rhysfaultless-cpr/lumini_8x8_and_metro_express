@@ -13,9 +13,8 @@
 |  Digital 6 / SPI0 SCK             |  CI              |  Grey                   |
 |  Digital 7 / SPI0 SDO / SPI0 MOSI |  DI              |  Blue                   |
 
-<p align="center"><img src="/readme_assets/readme_overall.png" width="600"/></p>
+<p align="center"><img src="/readme_assets/readme_overall.png" width="500"/></p>
 <br/>
-<p align="center">
-  <img src="/readme_assets/readme_metro.jpg" width="300"/>
-  <img src="/readme_assets/readme_lumini.jpg" width="300"/>
-</p>
+<p align="center"><img src="/readme_assets/readme_metro.jpg" width="500"/></p>
+<br/>
+<p align="center"><img src="/readme_assets/readme_lumini.jpg" width="500"/></p>
